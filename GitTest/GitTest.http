@@ -1,0 +1,6 @@
+@GitTest_HostAddress = http://localhost:5260
+
+GET {{GitTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
