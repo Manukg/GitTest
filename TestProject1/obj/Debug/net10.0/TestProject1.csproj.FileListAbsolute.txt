@@ -416,3 +416,4 @@ E:\CicdStudy\GitTest\TestProject1\bin\Debug\net10.0\GitTest.staticwebassets.endp
 E:\CicdStudy\GitTest\TestProject1\bin\Debug\net10.0\GitTest.exe
 E:\CicdStudy\GitTest\TestProject1\bin\Debug\net10.0\GitTest.dll
 E:\CicdStudy\GitTest\TestProject1\bin\Debug\net10.0\GitTest.pdb
+E:\CicdStudy\GitTest\TestProject1\obj\Debug\net10.0\TestProject1.sourcelink.json
